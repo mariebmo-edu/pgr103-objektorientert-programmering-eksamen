@@ -1,0 +1,1 @@
+For å teste om objektene blir lagt til på riktig måte, kan vi opprette .toString() metoder som er spesifisert per klasse. Når man da går gjennom arrayet og kaller .toString(), vil .toString()-metoden som overrides forskjellig for hver klasse kjøres. Vi kan da se om objektene er opprettet av ritkig type, og kjører som de skal.
